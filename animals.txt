@@ -1,6 +1,7 @@
 dog
 cat
 eagle
-mouse
 horse
 monkey
+mouse
+line7
