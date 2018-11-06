@@ -1,3 +1,6 @@
 dog
 cat
 eagle
+mouse
+horse
+monkey
