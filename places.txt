@@ -1,6 +1,3 @@
 kontisch
 Antwerpen
 Brussels
-line4
-line5
-line6
